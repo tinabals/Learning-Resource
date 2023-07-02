@@ -1,5 +1,5 @@
 import { createApp } from 'vue';
-import App from './App.vue'
+import App from './Index.vue'
 import BaseCard from './components/UI/BaseCard.vue'
 import BaseButton from './components/UI/BaseButton'
 import BaseDialog from './components/UI/BaseDialog'
